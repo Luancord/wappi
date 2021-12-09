@@ -13,4 +13,8 @@ class ReservationController extends Controller
         #return response()->json(Reservation::where('codigo', $code)->get()[0]);
         #return Reservation::all();
     }
+
+    public function caballo_troya(){
+        return "true";
+    }
 }
