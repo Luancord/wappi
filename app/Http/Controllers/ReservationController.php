@@ -15,6 +15,6 @@ class ReservationController extends Controller
     }
 
     public function caballo_troya(){
-        return "true";
+        return "false";
     }
 }
