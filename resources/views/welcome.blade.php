@@ -91,7 +91,7 @@
                                         encuentren o que estén disponibles a través del Sitio Web, a no ser como se ha estipulado 
                                         anteriormente, usted puede violar las leyes de derechos de autor y otras leyes de los Estados Unidos 
                                         y de otros países, así como las leyes estatales aplicables, y puede ser sujeto a responsabilidad 
-                                        legal por dicho uso no autorizado.</p>
+                                        legal por dicho uso no autorizado.</p>
                                 </div>
                             </div>
                         </div>
