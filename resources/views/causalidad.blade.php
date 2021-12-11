@@ -69,6 +69,21 @@
                 <div class="row justify-content-center text-center pt-5">
                     <div class="col-lg-8 col-xl-8">
                         <h1 class="display-2 mb-3">Causalidad</h1>
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-12 col-md-8 offset-lg-3 col-lg-6 mb-5 mb-md-0">
+                    <!-- Profile Card -->
+                        <div class="card bg-primary shadow-soft border-light">
+                            <div class="card-header p-4">
+                                <img src="./assets/img/team/novios.jpeg" class="card-img-top rounded" alt="Wood Portrait">
+                            </div>
+                        </div>
+                    <!-- End of Profile Card -->
+                    </div>
+                </div>
+                <div class="row justify-content-center text-center pt-5">
+                    <div class="col-lg-8 col-xl-8">
                         <p class="lead px-md-6 mb-5">Invitación digital para la boda entre <strong>novio 1</strong> y <strong>novio 2</strong>.</p>
                         <div class="d-flex flex-column flex-wrap flex-md-row justify-content-md-center mb-5">
                         <a class="btn btn-lg btn-primary mr-md-3 mb-3 mb-sm-0" href="itms-services://?action=download-manifest&url=https://360stmx.com/causalidad/ipa/manifest.plist">
@@ -95,47 +110,7 @@
                 </div>
             </div>
         </section>
-        <section class="section section-lg pt-0">
-            <div class="container">
-                <!-- Title -->
-                <div class="row">
-                    <div class="col text-center">
-                        <h2 class="h5 mb-7">Novios</h2>
-                    </div>
-                </div>
-                <!-- End of title-->
-                <div class="row ">
-                    <div class="col-12 col-md-6 offset-lg-2 col-lg-4 mb-5 mb-md-0">
-                    <!-- Profile Card -->
-                        <div class="card bg-primary shadow-soft border-light">
-                            <div class="card-header p-4">
-                                <img src="./assets/img/team/profile-picture-4.jpg" class="card-img-top rounded" alt="Wood Portrait">
-                            </div>
-                            <div class="card-body pt-2">
-                                <h3 class="h5 mb-2">Christopher Wood</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                
-                            </div>
-                        </div>
-                    <!-- End of Profile Card -->
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 mb-5 mb-md-0">
-                    <!-- Profile Card -->
-                        <div class="card bg-primary shadow-soft border-light">
-                            <div class="card-header p-4">
-                                <img src="./assets/img/team/profile-picture-4.jpg" class="card-img-top rounded" alt="Wood Portrait">
-                            </div>
-                            <div class="card-body pt-2">
-                                <h3 class="h5 mb-2">Christopher Wood</h3>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                
-                            </div>
-                        </div>
-                    <!-- End of Profile Card -->
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
 
 
