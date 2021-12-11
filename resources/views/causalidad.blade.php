@@ -33,7 +33,19 @@
 <!-- Pixel CSS -->
 <link type="text/css" href="./css/neumorphism.css" rel="stylesheet">
 
-<!-- NOTICE: You can use the _analytics.html partial to include production code specific code & trackers -->
+<style>
+    .navbar-brand
+{
+    position: relative;
+    background: url("assets/img/brand/logo.png");
+    width: 78px;
+    height:70px;
+    left: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+</style>
 
 </head>
 
