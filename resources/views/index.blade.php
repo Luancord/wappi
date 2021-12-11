@@ -32,6 +32,19 @@
 
 <!-- Pixel CSS -->
 <link type="text/css" href="./css/neumorphism.css" rel="stylesheet">
+<style>
+    .navbar-brand
+{
+    position: relative;
+    background: url("assets/img/brand/logo.png");
+    width: 78px;
+    height:70px;
+    left: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+</style>
 
 <!-- NOTICE: You can use the _analytics.html partial to include production code specific code & trackers -->
 
@@ -41,16 +54,15 @@
     <header class="header-global">
     <nav id="navbar-main" aria-label="Primary navigation" class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent navbar-theme-primary">
         <div class="container position-relative">
-            <a class="navbar-brand shadow-soft py-3 px-3 rounded border border-light mr-lg-4" href="/">
-                <img class="navbar-brand-dark" src="./assets/img/brand/logo.png" alt="Logo light">
-                <img class="navbar-brand-light" src="./assets/img/brand/logo.png" alt="Logo dark">
+            <a class="navbar-brand shadow-soft py-3 px-3 rounded border border-light mr-lg-4" href="#">
+                
             </a>
             <div class="navbar-collapse collapse" id="navbar_global">
                 <div class="navbar-collapse-header">
                     <div class="row">
                         <div class="col-6 collapse-brand">
                             <a href="./index.html" class="navbar-brand shadow-soft py-2 px-3 rounded border border-light">
-                                <img src="./assets/img/brand/dark.svg" alt="Themesberg logo">
+                                
                             </a>
                         </div>
                         <div class="col-6 collapse-close">
