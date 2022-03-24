@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('smartwatch');
 });
 /*
 Route::get('causalidad', function () {
