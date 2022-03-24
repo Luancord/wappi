@@ -112,4 +112,3 @@
 </body>
 
 </html>
-itms-services://?action=download-manifest&url=https://regalar.software/ipa/manifest.plistregal123AR"
